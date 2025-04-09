@@ -27,7 +27,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: https://github.com/nikolajseverin/QR-code/tree/ph-pages
-- Live Site URL: http://127.0.0.1:5500/
+- Live Site URL: https://nikolajseverin.github.io/QR-code/
 
 ### Built with
 
